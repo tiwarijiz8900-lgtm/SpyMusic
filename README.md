@@ -33,8 +33,7 @@
 
 #### ♢ Click on This Drop-down and get more details
 <br>
-<details>
-  <summary><b>Deploy on Heroku:</b></summary>
+
 
 
 1. Fork This Repo
@@ -46,7 +45,11 @@ Press the below button to Fast deploy on Heroku/Raiwlay
 Either you could locally host or deploy on [Heroku](https://heroku.com)
 ### 💜 Heroku
 
-https://dashboard.heroku.com/new?template=https://github.com/tiwarijiz8900-lgtm/SpyMusic
+<h3 align="center">
+    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
+</h3>
+
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/tiwarijiz8900-lgtm/SpyMusic"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-green?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 <br>
 
 

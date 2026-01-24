@@ -25,7 +25,7 @@ from config import BANNED_USERS
 from strings import get_string
 
 
-START_IMG_URL = "https://files.catbox.moe/03tmha.jpg"
+START_IMG_URL = "https://files.catbox.moe/wvsxti.jpg"
 
 
 VALID_EMOJII = [
@@ -179,5 +179,6 @@ async def welcome(client, message: Message):
 
         except Exception as e:
             print(e)
+
 
 

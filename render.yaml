@@ -16,9 +16,9 @@ services:
         sync: false
       - key: OWNER_ID
         sync: false
-      - key:LOGGER_ID
+      - key: LOGGER_ID
         sync: false
       - key: STRING_SESSION
         sync: false
       - key: PORT
-        value: 8000
+        value: "8000"
